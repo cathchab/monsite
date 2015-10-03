@@ -1,0 +1,21 @@
+@font-face {
+      font-family: "ma fonte de test";
+      src: url("ABeeZee-Regular.otf");
+    }
+
+h1, h2
+{
+    text-align:left;
+	color:blue;
+	border: 1px black solid;
+}
+
+body {
+	font-family: "ma fonte de test", serif;
+	background-image:url(image/fond.jpg);
+}
+
+p, ul
+{
+    text-shadow: 3px 3px 5px black;
+}
